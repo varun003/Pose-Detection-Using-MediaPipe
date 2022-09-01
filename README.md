@@ -1,1 +1,1 @@
-# Pose-Detection-Using-MediaPipe
+# Pose Detection Using MediaPipe
